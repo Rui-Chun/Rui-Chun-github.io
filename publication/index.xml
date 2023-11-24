@@ -5,12 +5,30 @@
     <link>https://rui-chun.github.com/publication/</link>
       <atom:link href="https://rui-chun.github.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 04 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rui-chun.github.com/media/icon_huaff9a0e0bb59e0a4669d7810a0f5e458_37402_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://rui-chun.github.com/publication/</link>
     </image>
+    
+    <item>
+      <title>AutoMeta: Automated Optimization of mmWave Coverage using Low-cost Metasurfaces</title>
+      <link>https://rui-chun.github.com/publication/autometa/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://rui-chun.github.com/publication/autometa/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>Cross-Media Wireless Made Easier: Tuning Media Interfaces with Flexible Metasurfaces</title>
