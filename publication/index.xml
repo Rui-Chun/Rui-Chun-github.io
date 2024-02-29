@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>AutoMeta: Automated Optimization of mmWave Coverage using Low-cost Metasurfaces</title>
-      <link>https://rui-chun.github.com/publication/autometa/</link>
+      <title>AutoMS: Automated Service of mmWave Coverage Optimization using Low-cost Metasurfaces</title>
+      <link>https://rui-chun.github.com/publication/automs/</link>
       <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://rui-chun.github.com/publication/autometa/</guid>
+      <guid>https://rui-chun.github.com/publication/automs/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -31,7 +31,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>Cross-Media Wireless Made Easier: Tuning Media Interfaces with Flexible Metasurfaces</title>
+      <title>RF-Mediator: Tuning Medium Interfaces with Flexible Metasurfaces</title>
       <link>https://rui-chun.github.com/publication/rf-mediator/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://rui-chun.github.com/publication/rf-mediator/</guid>
